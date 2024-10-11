@@ -5,3 +5,5 @@ this projet is DEEZ NUTS!
 ## Author
 
 [Author](author.md)
+
+## Conflict
