@@ -7,3 +7,5 @@ this projet is DEEZ NUTS!
 [Author](author.md)
 
 ##Some new section here
+
+## Conflict
